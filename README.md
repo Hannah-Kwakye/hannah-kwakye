@@ -38,9 +38,9 @@
 
 <br/>
 
-<a href="https://github.com/thehannahkwakye">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thehannahkwakye&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehannahkwakye&theme=buefy&layout=compact" />
+<a href="https://github.com/hannah-kwakye">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hannah-kwakye&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-kwakye&theme=buefy&layout=compact" />
 </a>
 
 <br/>
